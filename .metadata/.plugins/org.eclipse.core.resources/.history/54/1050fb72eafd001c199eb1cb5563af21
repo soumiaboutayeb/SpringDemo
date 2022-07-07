@@ -1,0 +1,9 @@
+package Dao;
+
+public class PersonneRepository {
+
+	public PersonneRepository() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
